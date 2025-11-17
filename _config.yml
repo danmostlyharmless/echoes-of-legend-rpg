@@ -23,7 +23,7 @@ url: https://danmostlyharmless.github.io
 baseurl: "/echoes-of-legend-rpg"
 twitter_username: username
 github_username: danmostlyharmless
-minimal_mistakes_skin: default
+minimal_mistakes_skin:  "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
